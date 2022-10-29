@@ -1,5 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime
-==============================================================================================================================Computer science student at Ensimag and vice president of Ens'IA----------------------------------------------------------------I'm in computer science and AI for 3 years now, and I've been working on some projects I shared here on Github.* 🌍  I'm based in France* 🖥️  See my portfolio at [my personnal website](http://maximene.github.io/)* 🚀  I'm currently working on [Artifical Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)* 🤝  I'm open to collaborating on AI projects and events
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime  
+==============================================================================================================================  
+## Computer science student at Ensimag and vice president of Ens'IA  
+----------------------------------------------------------------  
+I'm in computer science and AI for 3 years now, and I've been working on some projects I shared here on Github.  
+* 🌍  I'm based in France  
+* 🖥️  See my portfolio at [my personnal website](http://maximene.github.io/)  
+* 🚀  I'm currently working on [Artifical Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* 🤝  I'm open to collaborating on AI projects and events  
 
 ### Skills
 
